@@ -47,6 +47,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 audio::-webkit-media-controls-panel {
-    background: url(~/assets/images/scene.png) no-repeat;
+    background: url(~/images/scene.png) no-repeat;
     background-size: 100% 100%;
 }
