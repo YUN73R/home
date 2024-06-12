@@ -51,7 +51,7 @@ const toSearch = () => {
         </div>
     </mian>
     <footer>
-        该网页由王玲赞助老公开发
+        
     </footer>
 </template>
 <style lang="less" scoped>
