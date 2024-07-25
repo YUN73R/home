@@ -32,7 +32,6 @@ const toSearch = () => {
                 </div>
                 <template #dropdown>
                     <el-dropdown-menu>
-                        <
                         <el-dropdown-item v-for="item in engines" :command="item.id">
                             <template #default>
                                 <el-image class="item-img" :src="item.ico" /><span>{{ item.name }}</span>
